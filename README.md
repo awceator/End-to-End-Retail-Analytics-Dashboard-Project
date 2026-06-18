@@ -107,5 +107,4 @@ Built interactive Power BI dashboards with:
 ## Author
 
 Ayush Wasu
-Project Engineer (IoT Energy)
-Aspiring Data Analyst
+
