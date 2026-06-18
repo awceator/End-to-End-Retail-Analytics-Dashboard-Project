@@ -1,39 +1,111 @@
-# Data-Analytics-Projects
-Data Analytics Projects
+# End-to-End Retail Analytics Dashboard Project
 
-🚀 A collection of data analytics projects showcasing data cleaning, transformation, exploration, and visualization using SQL, Python, Excel, and Power BI.
+## Project Overview
 
-📌 About This Repository
-This repository contains various data analytics projects where I apply data cleaning, analysis, and visualization techniques to extract insights from raw datasets. Each project includes:
+This project demonstrates the complete data analytics lifecycle, from raw retail sales data to actionable business insights using SQL, Python, Excel, and Power BI.
 
-📊 Data Cleaning & Transformation – Using SQL, Python, and Excel to preprocess and structure data.
-🔍 Exploratory Data Analysis (EDA) – Identifying trends, patterns, and missing values.
-📈 Visualizations & Dashboards – Creating meaningful reports for data-driven decision-making.
-🛠 Tools Used – SQL, Python (Pandas, Matplotlib, Seaborn), Excel, Power BI, and more.
+The objective was to analyze retail sales performance, customer behavior, product trends, and revenue growth to support data-driven decision making.
 
-📂 Projects Included
-🌍 World Population Analysis
-Analyzed global population trends using Python and Pandas.
-Cleaned and processed raw data, handled missing values, and performed statistical analysis.
-Created visualizations (heatmaps, box plots) using Matplotlib and Seaborn to identify key insights.
+---
 
-📞 Customer Data Cleaning
-Processed a customer call list dataset using Pandas, standardizing names, phone numbers, and addresses.
-Removed duplicates, handled missing values, and split unstructured address data into structured fields.
-Filtered "Do Not Contact" customers and optimized the dataset for further analysis.
+## Business Problem
 
-🗃 SQL Data Cleaning & Exploration
-Utilized SQL queries to clean and transform raw data for better usability.
-Removed duplicates, corrected inconsistencies, and structured datasets for reporting.
-Applied aggregation and filtering functions to identify trends and missing data patterns, ensuring data integrity.
+Retail businesses generate large volumes of transactional data daily. Without proper analysis, identifying revenue trends, customer purchasing patterns, and product performance becomes difficult.
 
-📊 Excel Data Analysis
-Conducted business data analysis using Excel, implementing pivot tables, VLOOKUP, and advanced formulas.
-Filtered and aggregated large datasets to extract key insights and improve decision-making.
-Created interactive reports and dashboards to visualize trends effectively.
+This project provides an end-to-end analytics solution to:
 
-📈 Power BI Data Analysis & Dashboard
-Cleaned and transformed raw data in Power BI using Power Query, ensuring accuracy and consistency.
-Conducted exploratory data analysis to identify key trends and insights.
-Designed an interactive dashboard with KPIs, charts, and drill-down reports for data-driven decision-making.
-Utilized DAX (Data Analysis Expressions) to create calculated columns and measures for advanced reporting.
+- Monitor sales performance
+- Track revenue growth
+- Analyze customer behavior
+- Identify top-performing products
+- Improve business decision-making
+
+---
+
+## Tools & Technologies
+
+- SQL
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Excel
+- Power BI
+- DAX
+- Power Query
+
+---
+
+## Project Workflow
+
+### 1. Data Collection
+Collected retail sales transaction data.
+
+### 2. Data Cleaning
+- Removed duplicate records
+- Handled missing values
+- Standardized formats
+- Corrected inconsistent data
+
+### 3. Exploratory Data Analysis
+Performed analysis on:
+
+- Revenue Trends
+- Product Performance
+- Customer Segments
+- Sales Distribution
+- Monthly Growth
+
+### 4. SQL Analysis
+Created SQL queries for:
+
+- Revenue Analysis
+- Top Products
+- Customer Insights
+- Regional Performance
+
+### 5. Dashboard Development
+Built interactive Power BI dashboards with:
+
+- KPI Cards
+- Revenue Trends
+- Product Analysis
+- Customer Analysis
+- Interactive Filters
+
+---
+
+## Key KPIs
+
+- Total Sales
+- Total Revenue
+- Profit Margin
+- Number of Orders
+- Average Order Value
+- Top Selling Products
+- Customer Count
+
+---
+
+## Business Insights
+
+- Identified top-performing product categories.
+- Analyzed monthly revenue growth trends.
+- Evaluated customer purchasing behavior.
+- Highlighted high-performing regions and products.
+
+---
+
+## Dashboard Features
+
+- Dynamic Filters
+- KPI Cards
+- Trend Analysis
+- Category Analysis
+- Customer Analysis
+- Region-wise Performance
+
+---
+
+## Author
+
+Ayush Wasu
+Project Engineer (IoT Energy)
+Aspiring Data Analyst
